@@ -1,0 +1,10 @@
+img {
+    width: 50%;
+    height: auto;
+
+}
+body {
+    background-color: rgba(252, 252, 252, 0.823);
+    text-align: center;
+    font-size: 30px;
+}
